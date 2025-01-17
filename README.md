@@ -18,7 +18,7 @@
 
 ### 1.创建/root/video目录
 
-### 2.下载[文件](https://https://github.com/xxxume/telegram_video_downloader/releases/tag/%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BD%BD%E9%A2%91%E9%81%93%E8%A7%86%E9%A2%91%E5%88%B0vps%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA)上传到/root/video目录下
+### 2.下载[文件](https://github.com/xxxume/telegram_video_downloader/releases/tag/%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BD%BD%E9%A2%91%E9%81%93%E8%A7%86%E9%A2%91%E5%88%B0vps%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA)上传到/root/video目录下
 
 ### 3.创建虚拟环境
 
