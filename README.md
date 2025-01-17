@@ -10,6 +10,7 @@
 - 📋 多频道监控管理
 - 🔄 自动重试和断点续传
 - 📈 下载统计和状态查看
+
   ![](https://image.xxxu.me/rest/zxk2cNK.png)
   ![](https://image.xxxu.me/rest/QcR2cNK.png)
 
